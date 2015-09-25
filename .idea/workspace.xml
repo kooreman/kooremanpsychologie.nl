@@ -3,11 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="b9baa421-2303-4357-bdfd-8db4b44a5446" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="kooremanpsychologie.nl.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="b9baa421-2303-4357-bdfd-8db4b44a5446" time="1443201916740" ignored="false" />
-    <file path="/index.html" changelist="b9baa421-2303-4357-bdfd-8db4b44a5446" time="1443202434623" ignored="false" />
+    <file path="/index.html" changelist="b9baa421-2303-4357-bdfd-8db4b44a5446" time="1443203003936" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +81,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="242" column="47" selection-start="12684" selection-end="12684" vertical-scroll-proportion="0.06933744">
+            <state line="124" column="121" selection-start="5674" selection-end="5674" vertical-scroll-proportion="0.4622496">
               <folding />
             </state>
           </provider>
@@ -402,7 +403,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="242" column="47" selection-start="12684" selection-end="12684" vertical-scroll-proportion="0.06933744">
+        <state line="124" column="121" selection-start="5674" selection-end="5674" vertical-scroll-proportion="0.4622496">
           <folding />
         </state>
       </provider>
